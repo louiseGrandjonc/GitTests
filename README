@@ -6,5 +6,9 @@
 
 \f0\fs24 \cf0 TEST GIT : {\field{\*\fldinst{HYPERLINK "http://git-scm.com/book"}}{\fldrslt 
 \f1\fs26 \cf2 \cb3 \ul \ulc2 http://git-scm.com/book}}}
+<<<<<<< HEAD
 
 test merge branche testing et master
+=======
+test branche 
+>>>>>>> testing
